@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://sharmaanshul43597-byte.github.io/Attrey-kriyana-store-1/sitemap.xml
